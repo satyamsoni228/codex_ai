@@ -16,5 +16,6 @@ If you have any feedback, please reach out to us at ssoni6149@gmail.com
 
 ## Authors
 
-- [satyam soni](https://github.com/satyamsoni228)
+- [@satyamsoni](https://github.com/satyamsoni228)
+- [@tanmayshahi](https://github.com/tanmayshahi)
 
